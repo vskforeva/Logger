@@ -1,0 +1,75 @@
+2025-06-04 22:12:43 | TRACE | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:19 -> This is a trace message.
+2025-06-04 22:12:43 | DEBUG | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:20 -> This is a debug message.
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:21 -> This is an info message.
+2025-06-04 22:12:43 | WARNING | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:22 -> This is a warning message.
+2025-06-04 22:12:43 | ERROR | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:23 -> This is an error message.
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message0
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message0
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message1
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message1
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message2
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message2
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message3
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message3
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message4
+2025-06-04 22:12:43 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message4
+2025-06-04 22:13:02 | TRACE | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:19 -> This is a trace message.
+2025-06-04 22:13:02 | DEBUG | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:20 -> This is a debug message.
+2025-06-04 22:13:02 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:21 -> This is an info message.
+2025-06-04 22:13:02 | WARNING | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:22 -> This is a warning message.
+2025-06-04 22:13:02 | ERROR | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:23 -> This is an error message.
+2025-06-04 22:13:02 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message0
+2025-06-04 22:13:02 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message0
+2025-06-04 22:13:02 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message1
+2025-06-04 22:13:02 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message1
+2025-06-04 22:13:03 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message2
+2025-06-04 22:13:03 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message2
+2025-06-04 22:13:03 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message3
+2025-06-04 22:13:03 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message3
+2025-06-04 22:13:03 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message4
+2025-06-04 22:13:03 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message4
+2025-06-04 22:13:32 | TRACE | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:19 -> This is a trace message.
+2025-06-04 22:13:32 | DEBUG | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:20 -> This is a debug message.
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:21 -> This is an info message.
+2025-06-04 22:13:32 | WARNING | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:22 -> This is a warning message.
+2025-06-04 22:13:32 | ERROR | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:23 -> This is an error message.
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message0
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message0
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message1
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message1
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message2
+2025-06-04 22:13:32 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message2
+2025-06-04 22:13:33 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message3
+2025-06-04 22:13:33 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message3
+2025-06-04 22:13:33 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message4
+2025-06-04 22:13:33 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message4
+2025-06-04 22:14:07 | TRACE | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:19 -> This is a trace message.
+2025-06-04 22:14:07 | DEBUG | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:20 -> This is a debug message.
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:21 -> This is an info message.
+2025-06-04 22:14:07 | WARNING | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:22 -> This is a warning message.
+2025-06-04 22:14:07 | ERROR | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:23 -> This is an error message.
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message0
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message0
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message1
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message1
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message2
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message2
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message3
+2025-06-04 22:14:07 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message3
+2025-06-04 22:14:08 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message4
+2025-06-04 22:14:08 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message4
+2025-06-04 22:21:16 | TRACE | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:19 -> This is a trace message.
+2025-06-04 22:21:16 | DEBUG | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:20 -> This is a debug message.
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:21 -> This is an info message.
+2025-06-04 22:21:16 | WARNING | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:22 -> This is a warning message.
+2025-06-04 22:21:16 | ERROR | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:23 -> This is an error message.
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message0
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message0
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message1
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message1
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message2
+2025-06-04 22:21:16 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message2
+2025-06-04 22:21:17 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message3
+2025-06-04 22:21:17 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message3
+2025-06-04 22:21:17 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread1message4
+2025-06-04 22:21:17 | INFO | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> Thread2message4

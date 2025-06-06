@@ -1,0 +1,2 @@
+2025-06-04 22:41:09 | TRACE | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:7 -> This is a trace message
+2025-06-04 22:41:09 | ERROR | C:\Users\Nekit\Desktop\zakharov3\Logger\Logger\LoggerTest\LoggerTest.cpp:8 -> This is an error message
